@@ -96,8 +96,8 @@ Email me — magee at ucolick dot org
 
 .. _jQuery: http://jquery.com/
 .. _SAO/NASA Astrophysical Data System: http://www.adsabs.harvard.edu/
-.. _Demo 1: demo/demo1.html
-.. _Demo 2: demo/demo2.html
-.. _Download: jADSAnywhere.zip
+.. _Demo 1: http://www.ucolick.org/~magee/jadsanywhere/demo/demo1.html
+.. _Demo 2: http://www.ucolick.org/~magee/jadsanywhere/demo/demo1.html
+.. _Download: http://www.ucolick.org/~magee/jadsanywhere/jADSAnywhere.zip
 .. _jQuery library: http://jquery.com/
 .. _beer-ware: http://en.wikipedia.org/wiki/Beerware
