@@ -40,6 +40,7 @@ change the search string ``'LastName, FirstName MiddleInitial'`` to your
 name (e.g for myself it would be ``'Magee, Daniel K'``).
 
 ::
+    
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
     <script type="text/javascript" src="http://cdn.danielkmagee.com/jquery.jadsanywhere.min.js"></script>
     <script type="text/javascript">
